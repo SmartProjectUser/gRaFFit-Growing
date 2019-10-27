@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dcccdefd9f0da3b4a902a84226e7046f, type: 3}
+    totalSpriteSurfaceArea: 250826
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 0a958206c436bf45787e7bc0b3892fdb
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6d5006b1f06250e4bb803aa7c2342c78, type: 3}
+  - {fileID: 21300000, guid: 91a73733b7761854f982119a76b24ea3, type: 3}
+  - {fileID: 21300000, guid: 7582154372dcdcc4ebd9fbd4a78aceb9, type: 3}
+  - {fileID: 21300000, guid: 3954d854f4fbea846aa46efcb212316a, type: 3}
+  - {fileID: 21300000, guid: da512084d61390341af1e27eb1cb2e74, type: 3}
+  - {fileID: 21300000, guid: 02ce2225ef1535f4c9e0969f6030a22f, type: 3}
+  - {fileID: 21300000, guid: 4b968895b93c4934484494ed3bfbbf70, type: 3}
+  - {fileID: 21300000, guid: d9319b2779e55914d9564591c53e2d36, type: 3}
+  - {fileID: 21300000, guid: 134160674be3d6a4dbb2f82460ec89f9, type: 3}
+  - {fileID: 21300000, guid: 2177ee0d90ab5ee47855fbf841380a7d, type: 3}
+  - {fileID: 21300000, guid: 77a8a78d5cb88ea4289ae17f79369c39, type: 3}
+  - {fileID: 21300000, guid: 7621df3e7af4c924dbfb294f63d0ade6, type: 3}
+  - {fileID: 21300000, guid: 9763d39e19a43d94ab89b3b4f395c0cb, type: 3}
+  - {fileID: 21300000, guid: 86bdb2de970ab334d8d21a545ef37a8f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 2t
+  - cookie
+  - Cat_yeah
+  - the cat2x
+  - Cat_sleeping
+  - Paw
+  - the cat
+  - 4t
+  - the cat1x
+  - the catFAT
+  - 0t
+  - button
+  - 1t
+  - Floor
+  m_Tag: atlas
+  m_IsVariant: 0
